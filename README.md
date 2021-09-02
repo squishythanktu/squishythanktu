@@ -9,9 +9,7 @@
 <h2 align="center">You can reach me at 💌</h2>
 
 <p align="center">
-  <a href="https://www.facebook.com/squishythanktu/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  
   
 
   <a href="https://www.facebook.com/squishythanktu/">
