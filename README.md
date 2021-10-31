@@ -1,10 +1,6 @@
 ### Hi I'm YooMie 🐰💫
 | ![1](https://s1.uphinh.org/2021/09/02/701908f6fd0b113b9b493ba689fd0e71.gif) |
 | --- | 
-- 👨‍💻 Studying at [DaNang University of Science and Technology](http://dut.udn.vn/EN)
-- 🌱 Currently learning Cryptography
-- 📚 An introvert girl trying to learn many new things about information technology
-
 
 <h2 align="center">You can reach me at 💌</h2>
 
