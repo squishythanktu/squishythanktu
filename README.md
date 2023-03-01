@@ -3,8 +3,7 @@
 # Hi I'm Thanh Tu 🐰💫
 <ul>
   <li>Student at The University of Danang - University of Science and Technology</li>
-  <li> Love to code, currently learning things related to Frontend</li>
-  <li>Familiar with these programming languages: C/C++, C#, Java, HTML, CSS </li>
+  <li>Love to code, currently learning things related to Frontend Web</li>
 </ul>
 
 <h2 >You can reach me at 💌</h2>
